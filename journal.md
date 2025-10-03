@@ -12,3 +12,7 @@ Now i am not really the best at making projects. But for a project i would want 
 
 # September 22, 2025
 I feel like the idea of it is an intresting idea, but i dont think it would be very smart. While i think it would be good for people to get some sort of practice, or get used to it before they go to do the real thing, i feel like it wont be as practical. It would be more beneficial to have them go to the ikea and do it in person, with guidance from another person, and get the experience. If you do it online, youre not gonna get that sort of experience from the job rather than you just going in person and doing it. overall, i think that the time, experience, and familiarity of going in person would be more beneficial than doing it online, though doing it online does have some perks to it.
+
+# September 30, 2025
+The phrase 6,7 is a common, non-serious verbal tic students use for a few reasons. It often pops up in class or the halls as a casual, slightly teasing way, usually after someone says something funny or messes up doing something. Its simplistic meaning makes it easier to understand or say. It doesn't have a hidden meaning. people just think the number 67 is funny. 67
+
