@@ -16,3 +16,5 @@ I feel like the idea of it is an intresting idea, but i dont think it would be v
 # September 30, 2025
 The phrase 6,7 is a common, non-serious verbal tic students use for a few reasons. It often pops up in class or the halls as a casual, slightly teasing way, usually after someone says something funny or messes up doing something. Its simplistic meaning makes it easier to understand or say. It doesn't have a hidden meaning. people just think the number 67 is funny. 67
 
+# October 14, 2025
+https://voidzev.my.canva.site/voidz
