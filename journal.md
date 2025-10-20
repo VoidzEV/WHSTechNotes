@@ -21,6 +21,11 @@ https://voidzev.my.canva.site/voidz
 
 # October 20, 2025
 | Name      | Class | Seat |
+| ---        |    ----   |          --- |
 | Franklin      | Second       | 91A |
 | Hardeep   | Third        | 61F |
 | Marla | First | 35B
+
+
+
+
