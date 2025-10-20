@@ -18,3 +18,9 @@ The phrase 6,7 is a common, non-serious verbal tic students use for a few reason
 
 # October 14, 2025
 https://voidzev.my.canva.site/voidz
+
+# October 20, 2025
+| Name      | Class | Seat |
+| Franklin      | Second       | 91A |
+| Hardeep   | Third        | 61F |
+| Marla | First | 35B
