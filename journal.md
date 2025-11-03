@@ -28,8 +28,9 @@ https://voidzev.my.canva.site/voidz
 
 # October 27, 2025
 | Name | Main Dish | Dessert |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| --- | ----------- | ---- |
+| Fiona | Gado Gado | Creme Brulee |
+| Tobias | Shrimp Ceviche | French Apple Cake |
+| Leanne | Beef Wellington | Raspberry Tiramisu |
 
 
